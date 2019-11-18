@@ -1,0 +1,1 @@
+Questo repository è stato creato per rispondere alla domanda numero 5 dell'esercitazione individuale prevista per il 18/11/2019.
